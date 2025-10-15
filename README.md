@@ -115,8 +115,8 @@ Before you begin, ensure you have:
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/yourusername/cloud-storage-app.git
-cd cloud-storage-app
+git clone https://github.com/chinmaydhamgunde/cloudstorage-blackblaze
+cd cloudstorage-blackblaze
 ```
 
 ### Step 2: Set Up Backblaze B2
